@@ -4,6 +4,7 @@ This project demonstrates a 3D rotating cube with rainbow-colored borders using 
 
 This is a personal project to test the functionality of Pygame and PyOpenGL.
 
+![project Screenshot](screenshot.png)
 
 ## Features
 
