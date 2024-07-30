@@ -3,9 +3,9 @@
 This project demonstrates a couple examples of 3D with rainbow-colored borders using Pygame Community Edition and OpenGL.
 
 Current examples:
-	cube.py - a rotating cube
-	torus.py - a rotating torus
-	pyramid.py - a rotating pyramid
+1. cube.py - a rotating cube
+2. torus.py - a rotating torus
+3. pyramid.py - a rotating pyramid
 
 
 This is a personal project to test the functionality of Pygame and PyOpenGL.
