@@ -6,13 +6,14 @@ Current examples:
 1. cube.py - a rotating cube
 2. torus.py - a rotating torus
 3. pyramid.py - a rotating pyramid
-
+4. dragon.py - a custom shape model loaded from an stl file
 
 This is a personal project to test the functionality of Pygame and PyOpenGL.
 
 ![cube Screenshot](screenshot.png)
 ![torus Screenshot 2](screenshot2.png)
 ![pyramid Screenshot 3](screenshot3.png)
+![dragon Screenshot 3](screenshot4.png)
 
 ## Features
 
@@ -45,6 +46,8 @@ or
 python torus.py
 or
 python pyramid.py
+or
+python dragon.py
 ```
 
 ## Controls
@@ -68,6 +71,10 @@ You can modify various aspects of any of the programs:
 - Adjust the window size by changing the `display` tuple in the `main()` function
 - Modify the shapes's rotation speed by changing the values in the `glRotatef()` call
 - Adjust the rainbow effect speed by modifying the hue increment value
+
+## Credits
+
+the free STL model asset file (cutedragon2.stl) is from https://cults3d.com/en/3d-model/art/cute-dragon-jkcreate
 
 ## LICENSE
 
